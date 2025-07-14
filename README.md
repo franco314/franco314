@@ -56,7 +56,7 @@ Análisis e informe técnico para una empresa sobre **detección de malware tipo
 ## ✉️ Contacto
 
  📬 **Email:** ffrancoroldan@gmail.com
-- 💼 **LinkedIn:** https://www.linkedin.com/in/franco-roldan-/
+ 💼 **LinkedIn:** https://www.linkedin.com/in/franco-roldan-/
 
 ---
 
