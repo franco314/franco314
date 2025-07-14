@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Franco
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/franco-roldan-/))
-[![GitHub](https://img.shields.io/badge/GitHub-Franco-black?logo=github)]((https://github.com/franco314))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franco-roldan-/)
+[![GitHub](https://img.shields.io/badge/GitHub-Franco-black?logo=github)](https://github.com/franco314)
 [![Python](https://img.shields.io/badge/Python-Developer-yellow?logo=python&logoColor=white)](#)
 
 
