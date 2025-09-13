@@ -57,14 +57,6 @@ Permite registrar horas diarias, calcular totales semanales y mensuales, y gesti
 E-commerce completo desarrollado en **Django**, con catálogo, carrito, usuarios y gestión de pedidos.  
 💬 Proyecto que consolida conocimientos de backend y arquitectura de sistemas.  
 
----
-
-### 🛡️ Informe de ciberseguridad  
-Análisis e informe técnico para una empresa sobre detección de **ransomware**, con recomendaciones de buenas prácticas, políticas de backup y recuperación.  
-💬 Proyecto orientado a concientización y fortalecimiento de la seguridad organizacional.  
-
----
-
 ## ✉️ Contacto
 - 📬 Email: **ffrancoroldan@gmail.com**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/franco-roldan-/)  
